@@ -1,3 +1,2 @@
-
-Print ("Hello World!")
-print ("ini adalah project pertama saya")
+print ("halo dunia hehehe !!!")
+print ("affah kebaaarrr")
