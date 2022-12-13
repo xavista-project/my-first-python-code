@@ -1,5 +1,3 @@
-"""
-Ini adalah project pertama saya dengan python
-"""
+
 Print ("Hello World!")
-Print ("My Name IS Ilham")
+print ("ini adalah project pertama saya")
